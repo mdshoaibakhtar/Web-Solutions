@@ -69,7 +69,9 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-bold text-slate-900">Email Us</h4>
-                    <p className="text-slate-600">{CONTACT_INFO.email}</p>
+                    <a href={`mailto:${CONTACT_INFO.email}`} className="text-slate-600 hover:text-primary transition-colors block">
+                      {CONTACT_INFO.email}
+                    </a>
                     <p className="text-xs text-slate-400">We'll reply as soon as possible</p>
                   </div>
                 </div>

@@ -96,15 +96,27 @@ export const TESTIMONIALS = [
 
 export const PROJECTS = [
   {
+    title: 'Diabetes Free Life',
+    category: 'Healthcare Portal',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeitSnvr7Kjn_oLY0QJNGzNKHp5nDr7Hs10lcQxDPvKpBF5oR_7GsuASqo&s=10',
+    link: 'https://diabetes-free-life.vercel.app/'
+  },
+  {
+    title: 'Zenith Wellness Physiotherapy',
+    category: 'Healthcare Portal',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1OVAGG18_gqVmLEHQvpMRAY5MW1PVFTwPz5uf5iQfpkF4mZ-4ddWUqDU&s=10',
+    link: 'https://zenith-wellness-physiotherapy.vercel.app/'
+  },
+  {
     title: 'Aryabhatta Public School',
     category: 'Educational Institute',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/AHVAweq1r6QyYmO9-0QzciV9OF-UzbBpe24GmCTLzzogF4InQr81RrUEeSaiWSFgWejsHaEICe93RnAFMNoKRq-tsCGq31EvnrS3EnXcAM0rPjTz4dVVWZmW3elk79F7N2A9NqzM1_2Q=s1360-w1360-h1020-rw',
+    image: 'https://images.unsplash.com/photo-1613896527026-f195d5c818ed?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     link: 'https://aryabhatta-public-school-bhagalpur.vercel.app/'
   },
   {
     title: 'Holy Family School',
     category: 'Educational Institute',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/AHVAweo6-MPncxb0yy4kvF2X-kxIb595sy3-SR0qFELKqHmQtOtxhb0jpwjnQsQxI6w8fXrAhDZk4zoIWm0iDK1fMdBy-fvWOpOoyErzepqf8iKhaAKuUONw4VcJxgAQwCzwNeUsTDBnLg=s1360-w1360-h1020-rw',
+    image: 'https://images.unsplash.com/photo-1599725427295-6ed79ff8dbef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     link: 'https://holy-family-school-bhagalpur.vercel.app/'
   },
   {
@@ -160,12 +172,12 @@ export const PROJECTS = [
 export const CONTACT_INFO = {
   phone: '+91 9905109322',
   whatsapp: '919905109322',
-  email: 'websolutions@gmail.com',
+  email: 'imdshoaibakhtar@gmail.com',
   location: 'Patna, India',
   social: {
     facebook: 'https://www.facebook.com/websolutions',
     twitter: 'https://twitter.com/websolutions',
-    instagram: 'https://www.instagram.com/websolutions',
+    instagram: 'https://www.instagram.com/websolutions.ai',
     linkedin: 'https://www.linkedin.com/company/websolutions',
   }
 };
